@@ -1,7 +1,7 @@
 # Hitbox Vision
  - **Unreal Tournament 4 mutator**
  - **blueprint name:** MutHitboxVision
- - **version:** 0.9.0
+ - **version:** 1.0.0
  - **compatibility:** ++UT+Release-Next-CL-3525360
 
 ## Download .pak file
