@@ -5,7 +5,7 @@
  - **compatibility:** ++UT+Release-Next-CL-3525360
 
 ## Download .pak file
-*insert download link here later*
+[Click here to download.](https://utcc.unrealpugs.com/mutator/1010-Hitbox-Vision)
 
 ## What does it do?
 When applied, the mutator makes character hitboxes visible ingame.
